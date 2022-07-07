@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009851569352",
+    "project_id": "fir-appcheck-14adf",
+    "storage_bucket": "fir-appcheck-14adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009851569352:android:bd6bfe8475fcdda25c01fd",
+        "android_client_info": {
+          "package_name": "com.firebase_app_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009851569352-4bavj4s7imi32ac5mta0sb4276sskspf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJWCMPPa7VeBNInypJYSs7w40dNp04gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009851569352-4bavj4s7imi32ac5mta0sb4276sskspf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
